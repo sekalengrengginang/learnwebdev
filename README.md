@@ -1,2 +1,2 @@
 # learnwebdev
-repo for my learning journey with web development
+some stuff when i'm learning webdevelopment
