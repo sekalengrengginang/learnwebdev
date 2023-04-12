@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>eventJS</title>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <a onclick="eventPertama('Supri')" href="#" id="">click here</a>
+    <br />
+    Username <input type="text" name="" id="username" /><br />
+    Password <input type="password" name="" id="password" /><br />
+    <a href="#" onclick="eventKedua()">Login</a> <br />
+
+    <img
+      src="img/ph_1.jpg"
+      width="200px"
+      height="200px"
+      onmouseout="eventKeempat(this)"
+      onmouseover="eventKetiga(this)"
+    /> <br>
+
+    <input type="text" oninput="cekNilai()" id="nilai"><br>
+    <label id="note">Lulus</label><br>
+
+    <div id="canvas"></div>
+
+
+  </body>
+</html>

@@ -1,0 +1,15 @@
+table thead tr td{
+    border-bottom: 1px solid black;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+table tbody tr td{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.label{
+    background-color: rgb(130, 235, 130);
+    border-radius: 25%;
+    padding: 3px 10px 3px 10px;
+}

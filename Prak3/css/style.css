@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+    margin: 200px;
+
+}
+
+.form{
+    margin: auto;
+    width: 30%;
+    display: flex;
+    flex-wrap: wrap;
+}
