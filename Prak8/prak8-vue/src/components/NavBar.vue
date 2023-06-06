@@ -3,7 +3,7 @@
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
         <img
-          src="./deeznut.png"
+          src="deeznut.png"
           class="my-1"
           style="height: 80px; width: 200px"
           alt=""
